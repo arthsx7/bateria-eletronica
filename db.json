@@ -1,67 +1,65 @@
-{
-  "songs": [
-    {
-      "id": 0,
-      "name": "Heater-1",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
-      "letter": "Q",
-      "letterCode": 81
-    },
-    {
-      "id": 1,
-      "name": "Heater-2",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3",
-      "letter": "W",
-      "letterCode": 87
-    },
-    {
-      "id": 2,
-      "name": "Heater-3",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3",
-      "letter": "E",
-      "letterCode": 69
-    },
-    {
-      "id": 3,
-      "name": "Heater-4",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3",
-      "letter": "A",
-      "letterCode": 65
-    },
-    {
-      "id": 4,
-      "name": "Clap",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3",
-      "letter": "S",
-      "letterCode": 83
-    },
-    {
-      "id": 5,
-      "name": "Open-HH",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3",
-      "letter": "D",
-      "letterCode": 68
-    },
-    {
-      "id": 6,
-      "name": "Kick-n'-Hat",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3",
-      "letter": "Z",
-      "letterCode": 90
-    },
-    {
-      "id": 7,
-      "name": "Kick",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3",
-      "letter": "X",
-      "letterCode": 88
-    },
-    {
-      "id": 8,
-      "name": "Closed-HH",
-      "url": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3",
-      "letter": "C",
-      "letterCode": 67
-    }
-  ]
-}
+[
+  {
+    "id": 0,
+    "name": "Heater-1",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
+    "letter": "Q",
+    "letterCode": 81
+  },
+  {
+    "id": 1,
+    "name": "Heater-2",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3",
+    "letter": "W",
+    "letterCode": 87
+  },
+  {
+    "id": 2,
+    "name": "Heater-3",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3",
+    "letter": "E",
+    "letterCode": 69
+  },
+  {
+    "id": 3,
+    "name": "Heater-4",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3",
+    "letter": "A",
+    "letterCode": 65
+  },
+  {
+    "id": 4,
+    "name": "Clap",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3",
+    "letter": "S",
+    "letterCode": 83
+  },
+  {
+    "id": 5,
+    "name": "Open-HH",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3",
+    "letter": "D",
+    "letterCode": 68
+  },
+  {
+    "id": 6,
+    "name": "Kick-n'-Hat",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3",
+    "letter": "Z",
+    "letterCode": 90
+  },
+  {
+    "id": 7,
+    "name": "Kick",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3",
+    "letter": "X",
+    "letterCode": 88
+  },
+  {
+    "id": 8,
+    "name": "Closed-HH",
+    "url": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3",
+    "letter": "C",
+    "letterCode": 67
+  }
+]
