@@ -1,0 +1,22 @@
+.padBank {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-content: center;
+
+  background: #ad94fc;
+}
+
+.drumPad {
+  height: 115px;
+  width: 150px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #5a52af;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
